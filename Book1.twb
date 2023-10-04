@@ -769,7 +769,7 @@
     </worksheet>
   </worksheets>
   <windows source-height='30'>
-    <window class='worksheet' name='Income vs Products'>
+    <window class='worksheet' maximized='true' name='Income vs Products'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -858,7 +858,7 @@
       </viewpoint>
       <simple-id uuid='{12DBAAB0-856D-4490-BF60-7A37792ADD26}' />
     </window>
-    <window class='worksheet' maximized='true' name='Income vs Debt Equity'>
+    <window class='worksheet' name='Income vs Debt Equity'>
       <cards>
         <edge name='left'>
           <strip size='160'>
